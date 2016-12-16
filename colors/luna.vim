@@ -78,7 +78,7 @@ let g:colors_name = "luna"
 " Gvim Highlighting: (see :help highlight-groups)"{{{
 " ---------------------------------------------------------------------
 " First, the Normal
-hi Normal        guifg=#e5e5e5 guibg=#212121 gui=NONE
+hi Normal        guifg=#e5e5e5 guibg=#1c1c1c gui=NONE
 " ---------------------------------------------------------------------
 " The Languages stuff
 hi Title         guifg=#c9f0fa guibg=NONE    gui=NONE
@@ -138,7 +138,7 @@ hi Underlined    guifg=#80a0ff guibg=NONE    gui=NONE
 " ---------------------------------------------------------------------
 hi Error         guifg=#870000 guibg=#ffa40b gui=NONE
 " ---------------------------------------------------------------------
-hi TODO          guifg=#ff0087 guibg=#ffff87 gui=NONE
+hi TODO          guifg=#ff0087 guibg=NONE gui=NONE
 
 " ---------------------------------------------------------------------
 " Extended Highlighting
